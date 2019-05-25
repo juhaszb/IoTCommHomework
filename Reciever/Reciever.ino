@@ -1,6 +1,6 @@
 
 
-int startarray[11] = { 1 ,  1,  0 , 1 , 0 ,1 ,0 , 1};
+int startarray[8] = { 1 ,  1,  0 , 1 , 0 ,1 ,0 , 1};
 
 bool detectStart(int arr[]) 
 {
